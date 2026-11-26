@@ -1,0 +1,18 @@
+{
+    "subcutaneous_fat": {
+        "volume": 0.0,
+        "intensity": 0.0
+    },
+    "torso_fat": {
+        "volume": 5941758.08839798,
+        "intensity": -93.02624
+    },
+    "skeletal_muscle": {
+        "volume": 0.0,
+        "intensity": 0.0
+    },
+    "intermuscular_fat": {
+        "volume": 0.0,
+        "intensity": 0.0
+    }
+}
